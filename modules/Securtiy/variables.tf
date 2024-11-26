@@ -1,0 +1,3 @@
+variable "fridayhitt_securtiy" {
+  
+}
